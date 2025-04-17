@@ -1,32 +1,39 @@
-# 🛍️ Proyectostore
+# 🛍️Análisis Comparativo de Tiendas para el Sr. Juan
 
-AluraStore Latam es un proyecto de análisis de datos enfocado en ventas de una tienda en línea en América Latina. Utiliza Python y bibliotecas populares como pandas, matplotlib y seaborn para explorar, visualizar y obtener insights de los datos comerciales.
+Este proyecto tiene como finalidad ayudar al Sr. Juan a elegir la mejor tienda para vender sus productos, basándose en datos reales de ventas y rendimiento.
 
-## 📊 Descripción
+## 📌 Objetivos del análisis
+- Calcular la **facturación total** por tienda 💰
+- Analizar la **calificación promedio** de los clientes ⭐
+- Medir el **costo de envío promedio** 🚚
+- Identificar el **producto más y menos vendido** 📦
+- Comparar visualmente los resultados con gráficos 📊
+- Generar una **recomendación automatizada** de la tienda ideal
 
-Este proyecto busca responder preguntas clave sobre el comportamiento de ventas en una tienda online, tales como:
+## 🧠 Herramientas utilizadas
+- Python (Pandas, Matplotlib, Seaborn)
+- Google Colab
+- Visualización de datos
 
-- ¿Cuáles son los productos más vendidos?
-- ¿Cómo se comportan las ventas por país?
-- ¿Qué categorías son más populares?
-- ¿Cuál es el ticket promedio?
-- ¿Cómo se distribuyen las ventas a lo largo del tiempo?
+## 📁 Estructura del proyecto
+📁 datos/ ├─ tienda_1.csv ├─ tienda_2.csv ├─ tienda_3.csv └─ tienda_4.csv
+📓 notebook/ └─ Proyectostore.ipynb
 
-El análisis incluye visualizaciones interactivas y estadísticas descriptivas para facilitar la toma de decisiones basada en datos.
+## 📈 Resultados clave
 
-## 🧰 Tecnologías utilizadas
+- Comparación visual de métricas entre tiendas.
+- Tabla resumen con los indicadores principales.
+- Recomendación automática según facturación y calificación.
+- Análisis individual por tienda, sin consolidar los datos.
 
-- Python 3.x
-- Jupyter Notebook
-- Pandas
-- Matplotlib
-- Seaborn
-- Plotly (opcional, si lo implementaste)
-- NumPy
+## ✅ Conclusión
 
-## 🛠️ Instalación
+Este análisis permite tomar una decisión basada en datos objetivos. El Sr. Juan podrá seleccionar la tienda que mejor se adapte a sus intereses (ya sea mayor ganancia o mejor reputación).
 
-1. Clona este repositorio:
-   ```bash
-   git clone https://github.com/tuusuario/AluraStoreLatam.git
-   cd AluraStoreLatam
+## ✨ Autor
+
+- 💼 Proyecto desarrollado por [Ing. Richard Martinez]  #Alura 
+- 📅 Abril 2025  
+- 🧠 Proyecto académico de análisis de datos
+
+---
