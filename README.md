@@ -1,14 +1,15 @@
-# 🛍️Análisis Comparativo de Tiendas para el Sr. Juan
-
+# 📊 Análisis Comparativo de Tiendas para Toma de Decisión
 Este proyecto tiene como finalidad ayudar al Sr. Juan a elegir la mejor tienda para vender sus productos, basándose en datos reales de ventas y rendimiento.
 
-## 📌 Objetivos del análisis
-- Calcular la **facturación total** por tienda 💰
-- Analizar la **calificación promedio** de los clientes ⭐
-- Medir el **costo de envío promedio** 🚚
-- Identificar el **producto más y menos vendido** 📦
-- Comparar visualmente los resultados con gráficos 📊
-- Generar una **recomendación automatizada** de la tienda ideal
+Este proyecto tiene como objetivo principal recomendar al **Sr. Juan** en cuál de las **4 tiendas** debería vender, basándose en un análisis objetivo de **rendimiento**. La tienda con **menor facturación y calificación** será identificada como la **opción más débil**, ideal para que el Sr. Juan se incorpore y ayude a potenciar sus ventas.
+
+## 🧠 Objetivo del proyecto
+- Comparar 4 tiendas de forma individual (sin unir datasets).
+- Evaluar:
+  - 💰 Facturación total
+  - ⭐ Calificación promedio de clientes
+- Generar una **recomendación automática** basada en el **peor rendimiento**.
+- Mostrar una **visualización clara y entendible** de los resultados.
 
 ## 🧠 Herramientas utilizadas
 - Python (Pandas, Matplotlib, Seaborn)
@@ -19,19 +20,13 @@ Este proyecto tiene como finalidad ayudar al Sr. Juan a elegir la mejor tienda p
 📁 datos/ ├─ tienda_1.csv ├─ tienda_2.csv ├─ tienda_3.csv └─ tienda_4.csv
 📓 notebook/ └─ Proyectostore.ipynb
 
-## 📈 Resultados clave
+## 📉 Resultado
+El notebook analiza las tiendas con base en sus ventas y calificación, calcula un índice de rendimiento y recomienda al **Sr. Juan** la tienda con **menor desempeño**, como la mejor opción para comenzar a vender.
 
-- Comparación visual de métricas entre tiendas.
-- Tabla resumen con los indicadores principales.
-- Recomendación automática según facturación y calificación.
-- Análisis individual por tienda, sin consolidar los datos.
-
-## ✅ Conclusión
-
-Este análisis permite tomar una decisión basada en datos objetivos. El Sr. Juan podrá seleccionar la tienda que mejor se adapte a sus intereses (ya sea mayor ganancia o mejor reputación).
+## 📌 Recomendación generada
+"Se recomienda al Sr. Juan vender en la tienda con menor rendimiento, identificada automáticamente según los datos procesados, para aprovechar un mercado poco competitivo."
 
 ## ✨ Autor
-
 - 💼 Proyecto desarrollado por [Ing. Richard Martinez]  #Alura 
 - 📅 Abril 2025  
 - 🧠 Proyecto académico de análisis de datos
