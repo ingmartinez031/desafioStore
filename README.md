@@ -1,4 +1,4 @@
-# 🛍️ DesafioStore
+# 🛍️ Proyectostore
 
 AluraStore Latam es un proyecto de análisis de datos enfocado en ventas de una tienda en línea en América Latina. Utiliza Python y bibliotecas populares como pandas, matplotlib y seaborn para explorar, visualizar y obtener insights de los datos comerciales.
 
