@@ -24,7 +24,7 @@ Este proyecto tiene como objetivo principal recomendar al **Sr. Juan** en cuál 
 El notebook analiza las tiendas con base en sus ventas y calificación, calcula un índice de rendimiento y recomienda al **Sr. Juan** la tienda con **menor desempeño**, como la mejor opción para comenzar a vender.
 
 ## 📌 Recomendación generada
-"Se recomienda al Sr. Juan vender en la tienda con menor rendimiento, identificada automáticamente según los datos procesados, para aprovechar un mercado poco competitivo."
+"Se recomienda al Sr. Juan vender la tienda con menor rendimiento, identificada automáticamente según los datos procesados, para aprovechar un mercado poco competitivo."
 
 ## ✨ Autor
 - 💼 Proyecto desarrollado por [Ing. Richard Martinez]  #Alura 
